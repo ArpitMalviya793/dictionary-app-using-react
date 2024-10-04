@@ -218,7 +218,7 @@ function App() {
         } w-full mt-auto`}
       >
         <div className="py-4 md:py-8 flex flex-col md:flex-row items-center justify-center md:space-x-10 text-white">
-          <span className="mb-2 md:mb-0">Built By Arpit Shukla</span>
+          <span className="mb-2 md:mb-0">Built By Arpit Malviya</span>
         </div>
       </footer>
     </div>
